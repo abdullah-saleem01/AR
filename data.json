@@ -4,27 +4,27 @@
     {
       "category": "Anime",
       "label": "Naruto",
-      "total": 25
+      "total": 5
     },
     {
       "category": "Anime",
-      "label": "Sasuke",
-      "total": 18
+      "label": "ATO",
+      "total": 3
     },
     {
-      "category": "One Piece",
-      "label": "Luffy",
-      "total": 30
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 3
     },
     {
-      "category": "Dragon Ball",
-      "label": "Goku",
-      "total": 22
+      "category": "Animal",
+      "label": "Dog",
+      "total": 4
     },
     {
-      "category": "My Hero Academia",
-      "label": "Deku",
-      "total": 15
+      "category": "Animal",
+      "label": "Cat",
+      "total": 3
     }
   ]
 }
